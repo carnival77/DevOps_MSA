@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @AllArgsConstructor
-//@NoArgsConstructor
+@NoArgsConstructor
 @Builder(toBuilder=true)
 @Getter
 @Entity
