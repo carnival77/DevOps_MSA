@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="hello-spring-boot"/>
+<aop-project name="config-server"/>
 <aop-project name="foodservice"/>
+<aop-project name="helloworld"/>
+<aop-project name="api-gateway"/>
 </aop-reference-model>

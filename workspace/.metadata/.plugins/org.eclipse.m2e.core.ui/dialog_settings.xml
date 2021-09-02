@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\stam0\OneDrive\Desktop\study\개발\교육\MSA\DevOps_MSA_SpringCloudConfigServer\helloworld"/>
+			<item value="C:\Users\stam0\OneDrive\Desktop\study\개발\교육\MSA\DevOps_MSA_SpringCloudConfigServer\config-server"/>
+			<item value="C:\Users\stam0\OneDrive\Desktop\study\개발\교육\MSA\DevOps_MSA\workspace\api-gateway"/>
+			<item value="C:\Users\stam0\OneDrive\Desktop\study\개발\교육\MSA\DevOps_MSA\workspace\hello-spring-boot"/>
+			<item value="C:\Users\stam0\OneDrive\Desktop\study\개발\교육\MSA\DevOps_MSA\workspace\foodservice"/>
 			<item value="C:\Users\stam0\OneDrive\Desktop\study\개발\교육\MSA\workspace\foodservice\foodservice"/>
 			<item value="C:\Users\stam0\OneDrive\Desktop\study\개발\교육\MSA\workspace\hello-spring-boot"/>
 		</list>
